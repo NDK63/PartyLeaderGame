@@ -1,1 +1,1 @@
-# StockGame
+# PartyLeaderGame
